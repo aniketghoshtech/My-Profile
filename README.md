@@ -1,36 +1,37 @@
 # 👋 Hi, I'm Aniket Ghosh
 
-🚀 Aspiring Cloud & DevOps Engineer | Cybersecurity Enthusiast | Founder of WebSetu
+🚀 Founder of **WebSetu**
 
-🌱 Learning modern technologies step by step while building real-world projects and professional websites.
+💻 AI-Assisted Web Developer passionate about creating modern, responsive, and user-friendly websites. I'm currently learning programming fundamentals while building real-world projects and documenting my journey on GitHub.
 
 ---
 
-## 🔭 Currently Learning
+# 🌱 Currently Learning
 
+- AI-Assisted Web Development
+- HTML (Beginner)
 - Python (Beginner)
 - Linux (Beginner)
 - Git & GitHub
-- HTML, CSS & JavaScript
-- AI-Assisted Web Development
-- Cloud Computing (AWS - Learning)
 
 ---
 
-## 🎯 Career Goals
+# 🎯 Future Learning Goals
 
-- ☁️ Cloud Engineer
-- ⚙️ DevOps Engineer
-- 🛡️ Cybersecurity / SOC Analyst
-- 💼 Freelance Web Developer
+I'm excited to continue learning:
+
+- ☁️ Cloud Computing (AWS)
+- ⚙️ DevOps
+- 🌐 Networking (CCNA)
+- 🛡️ Cybersecurity
 
 ---
 
-## 🌐 WebSetu
+# 🌐 WebSetu
 
-**WebSetu** is my web design & development brand focused on creating modern, responsive, fast, and SEO-friendly websites.
+**WebSetu** is my web design & development brand focused on creating modern, responsive, fast, and SEO-friendly websites for businesses, restaurants, startups, and personal brands.
 
-### Services
+### 💼 Services
 
 - 🌐 Portfolio Websites
 - 🍽️ Restaurant Websites
@@ -38,67 +39,80 @@
 - 🚀 Landing Pages
 - 📄 Documentation Websites
 - 📱 Responsive Web Design
+- ⚡ SEO-Friendly Websites
 
 > **We Design. You Grow.**
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Current Skills
 
 - AI-Assisted Web Development
-- HTML, CSS & JavaScript
-- Git & GitHub
-- Linux (Beginner)
+- HTML (Beginner)
 - Python (Beginner)
+- Linux (Beginner)
+- Git & GitHub
 
 ---
 
-## 🔧 Tools
+# 🔧 Tools I Use
 
-- VS Code
+- Visual Studio Code
 - Git & GitHub
 - Ubuntu / WSL
-- Cloudflare
 - GitHub Pages
-- AWS Free Tier (Learning)
+- Cloudflare Pages
+- AI Development Tools
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
-Currently building and uploading:
+I'm currently building and improving:
 
-- Portfolio Websites
-- Restaurant Websites
-- Landing Pages
-- QR Menu Websites
-- Python Practice Projects
+- 🌐 Portfolio Websites
+- 🍽️ Restaurant Websites
+- 🏢 Company Websites
+- 🚀 Landing Pages
+- 📄 Documentation Websites
+- 📱 Responsive Websites
+- 🐍 Python Beginner Projects
+
+More projects will be added as I continue learning and improving my skills.
 
 ---
 
-## 📈 Learning Approach
+# 📚 My Learning Approach
 
-- 📚 Learn continuously
+- 📖 Learn consistently
 - 💡 Build real-world projects
-- 🧪 Practice consistently
-- 📤 Share progress on GitHub
+- 🧪 Practice every day
+- 📤 Share my progress on GitHub
+- 🚀 Keep improving one step at a time
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
 📧 **Email:** aniketghosh.tech@gmail.com
 
-💼 **LinkedIn:** *(Add your profile link)*
+📸 **Instagram:** https://instagram.com/aniketghosh.tech
 
-📸 **Instagram:** @aniketghosh.tech
+💼 **LinkedIn:** *(Coming Soon)*
 
 🌐 **GitHub:** https://github.com/aniketghoshtech
 
 ---
 
-> ⭐ *"Small steps every day lead to big success."*
+## ⭐ Quote
 
+> **"Small steps every day lead to big success."**
+
+---
+
+### 🚀 Powered by **WebSetu**
+
+**We Design. You Grow.**
 ### 🚀 Powered by **WebSetu**
 
 **We Design. You Grow.**
